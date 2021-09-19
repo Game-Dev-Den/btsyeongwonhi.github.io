@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+body {
+	background-color: #8236CB ;
+	margin: 0;
+}
+
+.nav{
+	position: fixed;
+	margin: 0;
+
+}
+
+.title {
+	font-family: Rubik;
+position: absolute;
+top: 50px;
+left: 250px;
+margin: 0;
+font-size: 72;
+}
+
+.subtitle{
+	font-family: Rubik;
+position: absolute;
+top: 100px;
+left: 460px;
+margin: 0;
+font-size: 72;
+}
+.follow {
+	font-family: Rubik;
+position: absolute;
+top: 30px;
+right: 200px;
+margin: 0;
+font-size: 72;
+}
+.insta {
+	position: absolute;
+top: 70px;
+right: 200px;
+margin: 0;
+}
+
+
+.left {
+	position: fixed;
+	margin: 0;
+	padding-top: 15.4%;
+	padding-left: 45%;
+}
+.top-right {
+	position: fixed;
+	margin: 0;
+	padding-left: 72%;
+}
+
+.quiz {
+	position: fixed;
+	margin: 0;
+	padding-top: 20%;
+	padding-left: 15%;
+}
+
+.pop {
+	height: 120px;
+	width: 180px;
+	position: fixed;
+	margin: 0;
+	top: 42%;
+	left: 21%;
+}
+
+.quiz-text {
+	font-family: Rubik;
+	position: fixed;
+	margin: 0;
+	top: 65%;
+	left: 25%
+}
